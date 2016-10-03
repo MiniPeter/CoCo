@@ -46,7 +46,6 @@ public class EnterSelect extends Activity {
 	private Button btnSearch;
 	private ImageView ivDeleteText;
 	private ListView listView;
-	private String stringTem = "Test";
 	//
 
 	//
