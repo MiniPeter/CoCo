@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">CoCo</string>
+
+    <!-- start_screen.xml -->
+    <string name="enter_button">Press Enter</string>
+    <string name="welcome_text">欢迎使用</string>
+    <string name="count_down_text">3秒</string>
+    <!--  -->
+
+
+    <!-- load.xml -->
+    <string name="loading_text">正在为初次运行做准备\n请稍后&#8230;</string>
+    <!--  -->
+
+
+    <!-- weather.xml -->
+    <string name="weather_title_name">沈阳</string>
+    <string name="weather_wind_direction">风向：南风</string>
+    <string name="weather_wind_strength">风力：2级</string>
+    <string name="weather_humidity">空气湿度：56%</string>
+    <string name="weather_time">发布时间：09:23</string>
+    <string name="weather_first_week">今天</string>
+    <string name="weather_first_pre">晴</string>
+    <string name="weather_first_next">23℃~35℃\n西南风微风</string>
+    <string name="weather_second_week">明天</string>
+    <string name="weather_second_pre">晴</string>
+    <string name="weather_second_next">23℃~35℃\n西南风微风</string>
+    <string name="weather_three_week">星期五</string>
+    <string name="weather_three_pre">晴转多云</string>
+    <string name="weather_three_next">23℃~32℃\n西南风3&#8211;4级</string>
+    <string name="weather_four_week">星期日</string>
+    <string name="weather_four_pre">多云</string>
+    <string name="weather_four_next">21℃~29℃\n北风 微风</string>
+    <string name="weather_five_week">星期一</string>
+    <string name="weather_five_pre">晴</string>
+    <string name="weather_five_next">21℃~29℃\n北风微风</string>
+    <string name="weather_warm_prompt">温馨提示</string>
+    <string name="weather_dressing_advice">天气炎热，建议着短衫、短裙、短裤、薄型T恤衫等清凉夏季服装。</string>
+    <string name="weather_chuanyi_title">穿衣指数</string>
+    <string name="weather_chuanyi_text">较冷</string>
+    <string name="weather_ziwaixian_title">紫外线强度</string>
+    <string name="weather_ziwaixian_text">中等</string>
+    <string name="weather_xiche_title">洗车指数</string>
+    <string name="weather_xiche_text">较适宜</string>
+    <string name="weather_lvyou_title">污染指数</string>
+    <string name="weather_lvyou_text">良</string>
+    <string name="weather_yundong_title">运动指数</string>
+    <string name="weather_yundong_text">较适宜</string>
+    <string name="weather_ganzhao_title">空调指数</string>
+    <string name="weather_ganzhao_text">部分时间开启</string>
+    <!--  -->
+
+    <!-- city_select -->
+    <string name="city_select_title_text">默认地点：沈阳</string>
+    <string name="city_select_btn_search">搜索</string>
+    <string name="city_select_et_search">请输入地点&#8230;</string>
+    <!--  -->
+
+    <!-- city_select -->
+    <string name="enter_select_title_text">默认地点设置</string>
+    <string name="enter_select_btn_search">搜索</string>
+    <string name="enter_select_et_search">请输入地点&#8230;</string>
+    <!--  -->
+</resources>
