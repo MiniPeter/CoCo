@@ -42,8 +42,8 @@
     <string name="weather_ziwaixian_text">中等</string>
     <string name="weather_xiche_title">洗车指数</string>
     <string name="weather_xiche_text">较适宜</string>
-    <string name="weather_lvyou_title">污染指数</string>
-    <string name="weather_lvyou_text">良</string>
+    <string name="weather_lvyou_title">感冒指数</string>
+    <string name="weather_lvyou_text">少发</string>
     <string name="weather_yundong_title">运动指数</string>
     <string name="weather_yundong_text">较适宜</string>
     <string name="weather_ganzhao_title">空调指数</string>

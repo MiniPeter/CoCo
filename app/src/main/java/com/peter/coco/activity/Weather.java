@@ -50,7 +50,6 @@ public class Weather extends Activity implements SwipeRefreshLayout.OnRefreshLis
 	JSONArray chuanyi;
 	JSONArray ganmao;
 	JSONArray kongtiao;
-	JSONArray wuran;
 	JSONArray xiche;
 	JSONArray yundong;
 	JSONArray ziwaixian;
@@ -360,8 +359,8 @@ public class Weather extends Activity implements SwipeRefreshLayout.OnRefreshLis
 				String temp = "null";
 				try {
 					if(index) {
-						temp = wuran.get(1).toString();
-						top = wuran.get(0).toString();
+						temp = ganmao.get(1).toString();
+						top = ganmao.get(0).toString();
 					}
 				} catch(Exception e) {
 					e.printStackTrace();
@@ -533,7 +532,6 @@ public class Weather extends Activity implements SwipeRefreshLayout.OnRefreshLis
 											chuanyi = info_.getJSONArray("chuanyi");
 											ganmao = info_.getJSONArray("ganmao");
 											kongtiao = info_.getJSONArray("kongtiao");
-											wuran = info_.getJSONArray("wuran");
 											xiche = info_.getJSONArray("xiche");
 											yundong = info_.getJSONArray("yundong");
 											ziwaixian = info_.getJSONArray("ziwaixian");
